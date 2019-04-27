@@ -218,3 +218,23 @@ table.table-bordered > thead > tr > th{
 table.table-bordered > tbody > tr > td{
     border:1px solid #373737;
 }
+
+.section{
+    display: none;
+    padding:10px;
+    font-size:18px; 
+    height:200px;
+}
+
+button#playpausebtn{	background:url(https://image.flaticon.com/icons/svg/189/189889.svg) no-repeat;
+	width:30px;
+    height:30px;
+    margin-right: 30px;
+    border: 0px
+}
+
+button#mutebtn{	background:url(https://image.flaticon.com/icons/svg/204/204287.svg) no-repeat;
+	width:30px;
+	height:30px;
+    border: 0px
+}
